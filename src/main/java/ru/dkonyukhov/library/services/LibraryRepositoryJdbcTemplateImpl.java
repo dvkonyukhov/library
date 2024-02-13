@@ -2,6 +2,7 @@ package ru.dkonyukhov.library.services;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
+import ru.dkonyukhov.library.LibraryRepository;
 import ru.dkonyukhov.library.models.Book;
 import ru.dkonyukhov.library.models.Person;
 

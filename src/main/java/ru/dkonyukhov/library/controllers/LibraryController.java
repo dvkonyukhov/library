@@ -3,7 +3,7 @@ package ru.dkonyukhov.library.controllers;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 import ru.dkonyukhov.library.models.Book;
-import ru.dkonyukhov.library.services.LibraryRepository;
+import ru.dkonyukhov.library.LibraryRepository;
 import ru.dkonyukhov.library.models.Person;
 
 import java.util.List;
